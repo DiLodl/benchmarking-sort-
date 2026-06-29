@@ -3,3 +3,8 @@ Date of Test: 2026-06-29 20:43:16
 Bubble Sort Time: 5.162320 seconds
 Quick Sort Time: 0.012768 seconds
 
+Computer Name: DESKTOP-M6IGEC4
+Date of Test: 2026-06-29 20:46:06
+Bubble Sort Time: 5.439048 seconds
+Quick Sort Time: 0.012695 seconds
+
